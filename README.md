@@ -1,2 +1,2 @@
-# challenge1
-The homework challenge for the first week. 
+# challenge-one
+The homework challenge for the first week of classes.
