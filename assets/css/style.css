@@ -126,30 +126,12 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/*Formatting for first section image.*/
-.search-engine-optimization img {
+/*Formatting for all 'content' section images.*/
+.content img {
     max-height: 200px;
 }
-/*Formatting for second section image.*/
-.online-reputation-management img {
-    max-height: 200px;
-}
-/*Formatting for third section image.*/
-.social-media-marketing img {
-    max-height: 200px;
-}
-/*Formatting for first header.*/
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/*Formatting for second header.*/
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/*Formatting for third header.*/
-.social-media-marketing h2 {
+/*Formatting for 'content' header.*/
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }

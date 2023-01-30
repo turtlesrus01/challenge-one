@@ -16,4 +16,6 @@ At the bottom of the page, the name of the company is printed and copyright is d
 
 Here is an image of the finished site:
 
-![photo of website](week1\horiseon-solutions\assets\images\screencapture-127-0-0-1-5500-week1-horiseon-solutions-index-html-2023-01-29-23_57_08.png)
+![photo of website](./assets/images/screencapture-127-0-0-1-5500-week1-horiseon-solutions-index-html-2023-01-29-23_57_08.png)
+
+
