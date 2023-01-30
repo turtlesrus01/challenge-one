@@ -21,5 +21,12 @@ At the bottom of the page, the name of the company is printed and copyright is d
 
 The website can be reached at this link: https://turtlesrus01.github.io/horiseon-solutions/
 
+## Support
+Reach out to me if you have any questions or if you have questions at:
+
+[Github discussions](https://github.com/turtlesrus01/horiseon-solutions/discussions)
+or
+[My Gitub page](https://github.com/turtlesrus01)
+
 ## License
 [MIT](https://github.com/turtlesrus01/horiseon-solutions/blob/main/LICENSE)
