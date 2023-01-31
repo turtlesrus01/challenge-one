@@ -2,6 +2,7 @@
 
 ## This webpage is one page guide to let you know what Horiseon Social Solution Services offers.
 
+## Description
 The page begins with a header bar which contains the logo and navigation bar of three links. These links are named:
 
 1. Search Engine Optimization
