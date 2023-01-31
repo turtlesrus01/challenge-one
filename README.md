@@ -21,7 +21,7 @@ The CSS stylesheet contains all formatting for these HTML **body** and **aside**
 
 ![photo of website](./assets/images/screencapture-127-0-0-1-5500-week1-horiseon-solutions-index-html-2023-01-29-23_57_08.png)
 
-The website can be reached at this link: https://turtlesrus01.github.io/horiseon-solutions/
+The deployed website can be reached at this link: https://turtlesrus01.github.io/horiseon-solutions/
 
 ## Support
 Reach out to me if you have any questions or if you have questions at:
